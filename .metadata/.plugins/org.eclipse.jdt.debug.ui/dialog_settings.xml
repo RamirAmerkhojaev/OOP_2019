@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab2/src&amp;lt;{Student.java[Task1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab2/src&amp;lt;{Time.java[Task4&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab2/src&amp;lt;{StarTriangle.java[Program&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SIS1/src&amp;lt;problem3{DragonLaunch.java[test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SIS1/src&amp;lt;problem2{GradeBook.java[GradeBookTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SIS1/src&amp;lt;problem3{DragonLaunch.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SIS1/src&amp;lt;{Temperature.java[Problem1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SIS1/src&amp;lt;problem2{GradeBookTest.java[GradeBookTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab2/src&amp;lt;Task5{Game.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab3/src&amp;lt;Problem1{Test.java[Test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab3/src&amp;lt;Problem3{Test.java[Test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab3/src&amp;lt;Problem2{Test.java[Test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab3/src&amp;lt;Problem5{Test.java[Test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ClassTask/src&amp;lt;{Example1.java[Example1&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=ClassTask/src&amp;lt;{Example2.java[Example2&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab4/src&amp;lt;Task1{Main.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab5/src&amp;lt;Task3{Main.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab5/src&amp;lt;Task4{Test.java[Test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SIS2/src&amp;lt;Task1{Main.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SIS2/src&amp;lt;Task2{Test.java[Test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SIS2/src&amp;lt;Task3{Main.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SIS2/src&amp;lt;Task4{Test.java[Test&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Intranet/src&amp;lt;{Main.java[Main&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="13"/>
+			<item key="DIALOG_Y_ORIGIN" value="58"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="expressionHistory">
+	</section>
+</section>
